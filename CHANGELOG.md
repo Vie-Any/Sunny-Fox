@@ -1,8 +1,27 @@
 # Change Log
 
-### The course video from [🔗Unity.cn](https:/learn.u3d.cn/)
+### The course video from [🔗Unity.cn](https://learn.u3d.cn/)
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
+
+## 2021-06-03
+- Active visual scripting feature in unity
+- Know about visual scripting panel
+- Learn about get Keyboard/Mouse Input, life cycle and scope of different variables
+- Learn about how to set/get variables in visual scripting panel
+- Learn about how to use judgement and select node in visual scripting panel
+- Learn about how to conbine different process node to implement function in visual scripting panel
+- Learn about how to group by nodes
+- Implement player movement and flip
+- Implement player jump and limit the player could jump only one time
+- Change gravity scale for optimize fall down smooth after jump
+- Create animator for the player
+- Create idle, running, jump, fall animation for the player 
+- Use visual scripting node switch different animation state
+- [Chapter 3 - video] Part 1 - Movement & Flip
+- [Chapter 4 - video] Part 1 - Jump & Ground Check
+- [Chapter 5 - video] Part 1 - Player Animation
+
 
 ## 2021-06-02
 - Install Unity 2021.1.0
