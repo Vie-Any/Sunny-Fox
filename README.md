@@ -15,4 +15,5 @@ This project is for record my unity 2D game develop learning.
 2. **Unity `2021.1.0`**
    - **Pagkages:**
         + 2D Tilemap Extras Version `2.0.0-pre.2`
+        + Cinemachine Version `2.7.3`
 3. **C# Editor: Rider 2021.1.3**

@@ -4,6 +4,19 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
+## 2021-06-06
+- Add an camera instead of the original camera
+- Add the background image as a child component of camera
+- Add a dead line to stop the game when the player was drop out of the scene and reload the scene again.
+- Add an enemy - opossum
+- Use event trigger to implement death for the player and enemy
+- Uniform death animation for the enemy
+- Lear about Animation Event in visual scripting
+- [Chapter 6 - video] Part 1 - Cinemachine
+- [Chapter 7 - video] Part 1 - Dead line
+- [Chapter 8 - video] Part 1 - Enemy - Opossum & death trigger
+
+
 ## 2021-06-03
 - Active visual scripting feature in unity
 - Know about visual scripting panel
