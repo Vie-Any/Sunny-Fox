@@ -5,6 +5,13 @@
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
 ## 2021-06-06
+- Create a state machine for the enemy Opossum
+- Complete patrol via state machine
+- [Chapter 9 - video] Part 1 - Enemy - Opossum - Patrol
+- [Chapter 10 - video] Part 1 - Enemy - Eagle - Patrol
+
+
+## 2021-06-06
 - Add an camera instead of the original camera
 - Add the background image as a child component of camera
 - Add a dead line to stop the game when the player was drop out of the scene and reload the scene again.
