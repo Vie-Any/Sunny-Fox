@@ -4,7 +4,14 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
-## 2021-06-06
+## 2021-06-08
+- Create enemy Frog
+- Create script machine for switch animation
+- Create state machine for control the frog movement and patrol
+- [Chapter 11 - video] Part 1 - Enemy - Frog - Patrol
+
+
+## 2021-06-07
 - Create a state machine for the enemy Opossum
 - Complete patrol via state machine
 - [Chapter 9 - video] Part 1 - Enemy - Opossum - Patrol
