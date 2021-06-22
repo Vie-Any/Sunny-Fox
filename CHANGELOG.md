@@ -4,6 +4,25 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
+
+## 2021-06-22
+- Review ground check script machine
+- Review crouch script machine
+- Implement celling check and keep stay crouch state when the player was in crouch but the vertical button was released
+- Add ladder to the scene
+- Use script machine to mark the relationship between the player and the ladder
+- Implement on ladder check, means the player was on the top of ladder and land on the ladder
+- Implement in ladder check, means the player was touch the ladder and land on the ground.
+- [Chapter 13 - video] Part 1 - Celling check when the player was crouch
+- [Chapter 14 - video] Part 1 - Climb the ladder - state check
+
+
+## 2021-06-13
+- Implement crouch for the player
+- Implement movement when the player was crouch state
+- [Chapter 12 - video] Part 1 - Player - Crouch
+
+
 ## 2021-06-08
 - Create enemy Frog
 - Create script machine for switch animation
