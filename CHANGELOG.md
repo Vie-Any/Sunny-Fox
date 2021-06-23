@@ -4,6 +4,13 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
+## 2021-06-24
+- Implement movement for when the player was climb ladder state
+- Implement exist from climb ladder state back to other state
+- Create climb animation
+- Update animation control script machine, add climb ladder animation switch
+- [Chapter 15 - video] Part 1 - Climb the ladder - function implementation and climb animation
+
 
 ## 2021-06-22
 - Review ground check script machine
