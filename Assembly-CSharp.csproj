@@ -41,7 +41,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Script Machine\Enemy\OpossumMovement.cs" />
+     <Compile Include="Assets\Animations\Goods\d.cs" />
      <Reference Include="UnityEngine">
      <HintPath>/Applications/2021.1.0f1c1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
      </Reference>
@@ -711,6 +711,12 @@
      <Reference Include="Unity.2D.IK.Runtime">
      <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/Unity.2D.IK.Runtime.dll</HintPath>
      </Reference>
+     <Reference Include="Cinemachine">
+     <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+     </Reference>
+     <Reference Include="com.unity.cinemachine.editor">
+     <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.2D.Animation.Triangle.Runtime">
      <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
      </Reference>
@@ -740,12 +746,6 @@
      </Reference>
      <Reference Include="Unity.VisualScripting.State">
      <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-     </Reference>
-     <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
-     </Reference>
-     <Reference Include="Cinemachine">
-     <HintPath>/Users/giong/Dev/UnityWorkspace/Sunny Fox/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>

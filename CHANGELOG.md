@@ -4,6 +4,21 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
+
+## 2021-06-27
+- Add two goods' cherry and gem to the scene so that the player could got rewards
+- Use script machine to implement player collect the goods and record the reward points
+- Add a UI.Text to the scene for display the reward points
+- Use embed script machine to update the display of reward points
+- Add UI.Button for pause and resume the game
+- Add UI.Pannel for show the control pannel when the game was paused
+- Add a state machine to the Canvas for state control
+  + Implement switch state between pause and resume
+  + Implement update the button text of pasue button for different game state
+- [Chapter 16 - video] Part 1 - Collect goods [Cherry & gem] - Display reward points on the screen
+- [Chapter 17 - video] Part 1 - Pause the game & Button function
+
+
 ## 2021-06-24
 - Implement movement for when the player was climb ladder state
 - Implement exist from climb ladder state back to other state
