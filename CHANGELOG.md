@@ -4,6 +4,18 @@
 
 ### [🔗The series course video <sup style="color:red">Need to pay</sup>](https://learn.u3d.cn/tutorial/Visual-Scripting)
 
+## 2021-06-29
+- Complete main scene button function
+- Improve the camera view, limit the view area of the player
+- Save scene index of game for temporary leave
+- Impelement continue game from last scene and revert the player's position.
+- [Chapter 18 - video] Part 1 - Main Scene -Main UI & Button - Save parts of game data
+
+
+## 2021-06-28
+- Create a simple main scene
+
+
 
 ## 2021-06-27
 - Add two goods' cherry and gem to the scene so that the player could got rewards
